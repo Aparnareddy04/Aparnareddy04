@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Aparna 👋
 
-<!--
-**Aparnareddy04/Aparnareddy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📊 Skilled in Python, SQL, Excel, Power BI  
+📈 Passionate about data-driven decision making  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Netflix Data Analysis  
+- Customer Segmentation  
+- Sales Dashboard  
+- HR Analytics Dashboard  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Check my repositories below 👇
